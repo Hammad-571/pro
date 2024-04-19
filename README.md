@@ -1,3 +1,3 @@
 # i-love-you
 
-- DEMO: https://iloveyou.clytage.org
+- DEMO: https://hammad-571.github.io/pro/
